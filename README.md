@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/geramos/df35679f-4916-4169-8aa2-cdc7f98548b6/70b1d081-847d-4ea7-b87c-f9c1b898b020/_apis/work/boardbadge/d3ae2b6f-15d9-4635-95fd-c608cb80c283)](https://dev.azure.com/geramos/df35679f-4916-4169-8aa2-cdc7f98548b6/_boards/board/t/70b1d081-847d-4ea7-b87c-f9c1b898b020/Microsoft.RequirementCategory)
